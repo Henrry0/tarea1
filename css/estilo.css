@@ -1,0 +1,87 @@
+*
+{
+    margin: 10px; }
+#principal
+{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 850px;
+    height: 850px;
+    background-color: #D1C9C7;
+}
+#caja1
+{
+    margin: auto;
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+}
+#caja2
+{
+    margin: auto;
+    border-radius: 150px;
+    width: 230px;
+    height: 230px;
+    background-color: white;
+}
+#caja3
+{
+    margin: auto;
+    border-radius: 250px;
+    width: 380px;
+    height: 380px;
+    background-color: white;
+}
+#caja4
+{
+    margin-top: 100px;
+    margin-left: 220px;
+    float: left;
+    border-radius: 100px;
+    width: 100px;
+    height: 25px;
+    background-color: black;
+}
+#caja5
+{
+    margin-top: 0px;
+    margin-right: 220px;
+    float: right;
+    border-radius: 100px;
+    width: 100px;
+    height: 25px;
+    background-color: black;
+}
+#caja11
+{
+    margin-top: 45px;
+    margin-right: 40px;
+    float: right;
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+    background-color: black;
+}
+#caja12
+{   
+    margin-top: 45px;
+    margin-left: 40px;
+    float: left;
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+    background-color: black;
+}
+#caja13
+{   
+    margin-top: 15px;
+    margin-left: 58px;
+    float: left;
+    border-radius: 100px;
+    width: 60px;
+    height: 15px;
+    background-color: black;
+}
